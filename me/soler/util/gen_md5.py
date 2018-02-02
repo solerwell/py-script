@@ -1,6 +1,8 @@
 #  coding= utf-8
 import hashlib
 
+'generate md5 hex string'
+
 
 def md5(src):
     _md5 = hashlib.md5()
