@@ -1,13 +1,18 @@
 # codding= utf-8
-from me.soler.util import md5
+import sys
 import logging
 
-"transfer to md5 string form src file by line"
+# let python find the module of this project
+sys.path.append('D:\\workspace\\py_script')
+
+from me.soler.util import md5
+
+"""transfer to md5 string form src file by line"""
 
 
 def transfer_to_md5(src_file_path, dest_path):
     """
-    transfer the file to md5-encrypted-data line by line
+    transfer the file to md5-encrypted-data line by line\n
     :param src_file_path: the raw data file path
     :param dest_path: destination file path
     :return: the md5-encrypted-data
@@ -28,8 +33,17 @@ def transfer_to_md5(src_file_path, dest_path):
         raise
 
 
+# the main function has two args (.etc using windows cmd to execute this program)
+# 1st:  the source file path
+# 2nd:  the destination file path
 if __name__ == '__main__':
-    _src_path = 'C:\\Users\\soler\\raw_data.txt'
-    _dest_path = 'C:\\Users\\soler\\dest_data.txt'
+    if sys.argv.__len__() < 3:
+        raise ValueError("the function's arg is now complete!")
+    arg_count = 0
+    for arg in sys.argv:
+        print("arg_count= " + str(arg_count) + "\targ= " + str(arg))
+        ++arg_count
+    _src_path = sys.argv[1]
+    _dest_path = sys.argv[2]
     print("===main program begin...")
     transfer_to_md5(_src_path, _dest_path)

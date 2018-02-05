@@ -1,6 +1,6 @@
 # codding= utf-8
 
-"""test file related method"""
+"""test file related function"""
 
 if __name__ == '__main__':
     _src_path = 'C:\\Users\\soler\\Desktop\\项目\\易品3.7.0数据项增加md5\\test-data\\idfa-tiny.txt'
