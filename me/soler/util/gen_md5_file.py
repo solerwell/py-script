@@ -29,7 +29,7 @@ def transfer_to_md5(src_file_path, dest_path):
 
 
 if __name__ == '__main__':
-    _src_path = 'C:\\Users\\soler\\Desktop\\项目\\易品3.7.0数据项增加md5\\test-data\\idfa-tiny.txt'
-    _dest_path = 'C:\\Users\\soler\\Desktop\\项目\\易品3.7.0数据项增加md5\\test-data\\idfa-tiny_md5.txt'
+    _src_path = 'C:\\Users\\soler\\raw_data.txt'
+    _dest_path = 'C:\\Users\\soler\\dest_data.txt'
     print("===main program begin...")
     transfer_to_md5(_src_path, _dest_path)
