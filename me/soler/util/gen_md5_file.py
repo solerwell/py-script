@@ -38,11 +38,11 @@ def transfer_to_md5(src_file_path, dest_path):
 # 2nd:  the destination file path
 if __name__ == '__main__':
     if sys.argv.__len__() < 3:
-        raise ValueError("the function's arg is now complete!")
-    arg_count = 0
+        raise ValueError("the function's arg is not complete!")
+    _arg_count = 0
     for arg in sys.argv:
-        print("arg_count= " + str(arg_count) + "\targ= " + str(arg))
-        ++arg_count
+        print("arg_count= " + str(_arg_count) + "\targ= " + str(arg))
+        ++_arg_count
     _src_path = sys.argv[1]
     _dest_path = sys.argv[2]
     print("===main program begin...")
