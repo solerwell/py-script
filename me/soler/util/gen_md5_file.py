@@ -42,7 +42,7 @@ if __name__ == '__main__':
     _arg_count = 0
     for arg in sys.argv:
         print("arg_count= " + str(_arg_count) + "\targ= " + str(arg))
-        ++_arg_count
+        _arg_count = _arg_count + 1
     _src_path = sys.argv[1]
     _dest_path = sys.argv[2]
     print("===main program begin...")
