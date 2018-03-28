@@ -29,7 +29,7 @@ def transfer_to_md5(src_file_path, dest_path):
                     _dest_file.write(md5_str + "\n")
 
     except BaseException as be:
-        logging.error("transfer md5 data error", be)
+        logging.error("transfer md5 data error" + be)
         raise
 
 
