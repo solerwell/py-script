@@ -1,11 +1,12 @@
 # codding= utf-8
 import sys
 import logging
+from util import md5
+import import_util
 
-# let python find the module of this project
-sys.path.append('D:\\workspace\\py_script')
+# let python index all submodule of this project
+import_util.do_import()
 
-from me.soler.util import md5
 
 """transfer to md5 string form src file by line"""
 
@@ -45,5 +46,6 @@ if __name__ == '__main__':
         _arg_count = _arg_count + 1
     _src_path = sys.argv[1]
     _dest_path = sys.argv[2]
-    print("===main program begin...")
-    transfer_to_md5(_src_path, _dest_path)
+    print("=====main program begin...")
+    # transfer_to_md5(_src_path, _dest_path)
+    print("=====executing finished...")
