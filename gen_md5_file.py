@@ -47,5 +47,5 @@ if __name__ == '__main__':
     _src_path = sys.argv[1]
     _dest_path = sys.argv[2]
     print("=====main program begin...")
-    # transfer_to_md5(_src_path, _dest_path)
+    transfer_to_md5(_src_path, _dest_path)
     print("=====executing finished...")
