@@ -1,0 +1,2706 @@
+{
+    "totalnum": 1555,
+    "pagenum": 100,
+    "page": 1,
+    "productlist": [{
+        "productid": "3936",
+        "productname": "泰山(白将军细支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/b1ba19d50e41e57c5253f6142b316a75.jpg",
+        "packprice": 16,
+        "barprice": 160,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "122",
+            "brandname": "泰山",
+            "desp": "泰山香烟始创于1928年，借鉴泰山独特的自然和文化底蕴，以泰山风光和儒家文化为理念，推出许多优秀产品，主要有泰山儒风、泰山乐章、泰山望岳、泰山新品、泰山华贵、泰山八喜、泰山东方等，以“纯、清、净、雅”的产品风格，突显泰山“气质清逸的人文型品牌”形象，儒风泰山高端卷烟以君子泰而不骄的品位，重新定义高端中式卷烟的文化内涵。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "3",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3603",
+        "productname": "黄山松(回味迎客松)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/40f1c834d8a2bcbe0c2d6be9a6f87b8b.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "238",
+            "brandname": "黄山松",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 0,
+        "type": {
+            "typeid": "5",
+            "typename": "雪茄烟"
+        },
+        "pingnum": "4",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3913",
+        "productname": "金圣(软瑞香)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/1913a2faa3943efcd3f4201265fab6c3.jpg",
+        "packprice": 35,
+        "barprice": 350,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3751",
+        "productname": "哈德门(壹号)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/8f06c1725bfd5378f4426d653a540c89.jpg",
+        "packprice": 23,
+        "barprice": 230,
+        "comscore": 8.7,
+        "scorewei": 9,
+        "scorebao": 8,
+        "scorejia": 9,
+        "brand": {
+            "brandid": "66",
+            "brandname": "哈德门",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "34",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3640",
+        "productname": "泰山(八仙过海细支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/fc939836a485d5e0ee44309952c3d5fe.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "122",
+            "brandname": "泰山",
+            "desp": "泰山香烟始创于1928年，借鉴泰山独特的自然和文化底蕴，以泰山风光和儒家文化为理念，推出许多优秀产品，主要有泰山儒风、泰山乐章、泰山望岳、泰山新品、泰山华贵、泰山八喜、泰山东方等，以“纯、清、净、雅”的产品风格，突显泰山“气质清逸的人文型品牌”形象，儒风泰山高端卷烟以君子泰而不骄的品位，重新定义高端中式卷烟的文化内涵。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "3",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3047",
+        "productname": "七匹狼(纯尚)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/08ce55cc76709cc60b68036a2d936156.jpg",
+        "packprice": 22,
+        "barprice": 220,
+        "comscore": 6,
+        "scorewei": 4.2,
+        "scorebao": 9.5,
+        "scorejia": 4.3,
+        "brand": {
+            "brandid": "108",
+            "brandname": "七匹狼",
+            "desp": "七匹狼品牌诞生于1995年，历经17年迅猛发展,跻身全国性重点骨干卷烟品牌行列。“通”系列是在创牌十五周年之际，以“吐纳有度”的智慧和“脱胎换骨”的决心，开创的“生态绵柔香”全新品类。“纯”系列是福建中烟凭借12年低焦技术积淀，以“低焦油，高品味”为理念，“典雅香韵，纯然境界”为全新品牌口号，于2011年打造的低焦卷烟标杆系列。“七匹狼”经典产品，保持始终如一的优异品质畅销于国内。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "13",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3926",
+        "productname": "玉溪(细支壹零捌)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e334b2d7dfc33ba74b7230d78556e1ac.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "52",
+            "brandname": "玉溪",
+            "desp": "玉溪香烟的名字源于红塔集团所在地——云南省玉溪市，玉溪卷烟定位于高档产品，追求品质。玉溪卷烟不仅代表着红塔集团的实力，还代表着玉溪的高原“水”文化。玉溪虽定位高端却不失亲和力，玉溪的理念“上善若水”代表着谦逊、执著、变通、务实、与人为善。这也正是玉溪品牌追求的境界。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "4",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3528",
+        "productname": "恒大(记忆1949中支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e677d4918741a1966581a0d702aaf355.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 10,
+        "scorewei": 10,
+        "scorebao": 10,
+        "scorejia": 10,
+        "brand": {
+            "brandid": "163",
+            "brandname": "恒大",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "15",
+        "commentnum": "5",
+        "othername": ""
+    }, {
+        "productid": "3620",
+        "productname": "黄金叶(大M)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/43f1940b914e90f44505986e4a486e7f.jpg",
+        "packprice": 23,
+        "barprice": 230,
+        "comscore": 8.3,
+        "scorewei": 9,
+        "scorebao": 8,
+        "scorejia": 8,
+        "brand": {
+            "brandid": "138",
+            "brandname": "黄金叶",
+            "desp": "黄金叶香烟创牌于1951年，是河南中烟的重点品牌之一，现有黄金叶(茗仕之风)、黄金叶(世纪之星)、黄金叶(世纪之光)等品种，尤其是黄金叶(茗仕之风)定位高端，作为河南卷烟顶尖的品牌，从上市起就备受关注。黄金叶选择了“名士”，为自己找到了文化定位，黄金叶(茗仕之风)为黄金叶品牌创造了一条独特的文化道路。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "58",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3193",
+        "productname": "钻石(尚风可可)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/4f83ce71a55d6d5f4a62f1d2628b743c.jpg",
+        "packprice": 13,
+        "barprice": 130,
+        "comscore": 6.5,
+        "scorewei": 6.5,
+        "scorebao": 7.2,
+        "scorejia": 5.8,
+        "brand": {
+            "brandid": "144",
+            "brandname": "钻石",
+            "desp": "钻石卷烟创牌于2001年，是河北中烟张家口卷烟厂的代表品牌，拥有红钻石、银钻石、紫钻石、金钻石、蓝钻石等多个系列，其中钻石景泰、钻石锦绣、钻石国嘴120、钻石如意、钻石珍品等，受到烟民的好评。钻石凭借“物超所值”的理念，迅速成长壮大起来，成为河北烟草一道靓丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "40",
+        "commentnum": "5",
+        "othername": ""
+    }, {
+        "productid": "3277",
+        "productname": "土楼(1575)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/702c61598c2e58d5f13d4ec2e32137fc.jpg",
+        "packprice": 20,
+        "barprice": 200,
+        "comscore": 7.3,
+        "scorewei": 7,
+        "scorebao": 7.8,
+        "scorejia": 6.9,
+        "brand": {
+            "brandid": "390",
+            "brandname": "土楼",
+            "desp": "永定客家人依靠土楼聚族而居的生活方式，不仅孕育了土楼文明，还发展了生产力，而大规模种植烟草，奠定了“烟魁”文化繁荣的基础。“土楼”牌香烟的上市传承和宣传了永定条丝烟文化，堪称是客家土楼旅游商品的又一经典力作。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "104",
+        "commentnum": "24",
+        "othername": ""
+    }, {
+        "productid": "3298",
+        "productname": "云烟(74mm香格里拉)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/ea5eb97a17115397a54e8fc36c43a68e.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 7.1,
+        "scorewei": 6.4,
+        "scorebao": 8.4,
+        "scorejia": 6.4,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "31",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3718",
+        "productname": "中南海(京韵细支烤烟)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/dfb551dfc033b3047241e50085935efd.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 10,
+        "scorewei": 10,
+        "scorebao": 10,
+        "scorejia": 10,
+        "brand": {
+            "brandid": "25",
+            "brandname": "中南海",
+            "desp": "中南海卷烟品牌现属上海烟草（集团）公司北京卷烟厂，1976年中南海对外试销，由此步入市场。1983年新混合型中南海卷烟诞生，1994年低焦油中南海成功研制，1999年后至今，中南海5mg、中南海8mg、中南海金8mg、中南海3mg纳米等等产品问世，形成了低危害中南海系列产品。中南海是我国36个名优卷烟品牌中唯一的低危害混合型卷烟品牌，以中南海（低焦油混合型）为代表的卷烟产品不仅行销全国，还远销日韩美台等多个国家和地区，备受青睐。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "21",
+        "commentnum": "4",
+        "othername": ""
+    }, {
+        "productid": "3743",
+        "productname": "七匹狼(乘风启航)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/839d8ea34230893adaefc449f614922e.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 10,
+        "scorewei": 10,
+        "scorebao": 10,
+        "scorejia": 10,
+        "brand": {
+            "brandid": "108",
+            "brandname": "七匹狼",
+            "desp": "七匹狼品牌诞生于1995年，历经17年迅猛发展,跻身全国性重点骨干卷烟品牌行列。“通”系列是在创牌十五周年之际，以“吐纳有度”的智慧和“脱胎换骨”的决心，开创的“生态绵柔香”全新品类。“纯”系列是福建中烟凭借12年低焦技术积淀，以“低焦油，高品味”为理念，“典雅香韵，纯然境界”为全新品牌口号，于2011年打造的低焦卷烟标杆系列。“七匹狼”经典产品，保持始终如一的优异品质畅销于国内。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 7,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "12",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "1177",
+        "productname": "金桥(英伦奶香)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/956a89fecf8c8578be2cbd7221c0cf3a.jpg",
+        "packprice": 11,
+        "barprice": 110,
+        "comscore": 7.3,
+        "scorewei": 6.6,
+        "scorebao": 8,
+        "scorejia": 7.4,
+        "brand": {
+            "brandid": "97",
+            "brandname": "金桥",
+            "desp": "金桥卷烟创牌于1988年，是当时第一支具有国际品质的本土混合型卷烟，现拥有金桥英伦奶香、金桥（软）、金桥金国际、金桥红国际等产品，自创牌以来金桥屡获殊荣，多次跻身“全国最畅销牌号”行列。2006年国际金桥系列的形象产品金桥金国际成功问世，受到热烈好评。如今国际金桥展现世界眼光，将国际金桥打造成高档中式混合型卷烟品牌，成为福建中烟品牌发展战略的重要举措。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "2",
+            "typename": "混合型"
+        },
+        "pingnum": "797",
+        "commentnum": "152",
+        "othername": ""
+    }, {
+        "productid": "3271",
+        "productname": "金圣(智圣出山16支装)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/9f63a2642822fd27089340fd7e509951.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 5.7,
+        "scorewei": 6.7,
+        "scorebao": 5.7,
+        "scorejia": 4.8,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "7",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3623",
+        "productname": "娇子(喜马拉雅)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/27f824e00f77c26ab6220cebbe84743b.jpg",
+        "packprice": 50,
+        "barprice": 500,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "42",
+            "brandname": "娇子",
+            "desp": "现拥有娇子传奇天子、娇子硬功夫王、娇子硬功夫7mg、功夫娇子10mg等多个系列产品的娇子，创牌于1995年，定位于中高端市场，是中国烟草36个名优品牌之一，其中娇子传奇天子和功夫娇子系列，更是一度成为烟民的关注热点。娇子以四川著名的大熊猫为品牌形象，核心理念为中国娇子、精英文化，口味以细腻、醇和、舒适为主，产品覆盖面广，增长强劲。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 11,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3923",
+        "productname": "延安(1935)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e3baa4da7f026db39da9a18cd2cb75d5.jpg",
+        "packprice": 50,
+        "barprice": 500,
+        "comscore": 8,
+        "scorewei": 9,
+        "scorebao": 6,
+        "scorejia": 9,
+        "brand": {
+            "brandid": "184",
+            "brandname": "延安",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "2",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3790",
+        "productname": "天子(中支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/1c02574662c3691f71a951106a0e0950.jpg",
+        "packprice": 25,
+        "barprice": 250,
+        "comscore": 6.7,
+        "scorewei": 8,
+        "scorebao": 5.1,
+        "scorejia": 7,
+        "brand": {
+            "brandid": "117",
+            "brandname": "天子",
+            "desp": "<b><font color=red>【已合并入“娇子”品牌旗下】</font></b>\r\n<br>\r\n天子香烟是川渝中烟的超高端品牌，天子从问世就引起轰动，最初天子只有一个规格，零售价定在2000元/条，现在天子发展出两个规格天子（软、硬）系列，天子硬（天子硬黄亦即天子全开式）的零售价为1500元/条，天子软（天子软黄）的零售价为500元/条。天子取意自“天神之子”，采用明黄色系和龙元素，将东方文化体现到极致。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "28",
+        "commentnum": "10",
+        "othername": ""
+    }, {
+        "productid": "3505",
+        "productname": "好猫(金丝猴)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/2c35d27ac89a118d747a8f804b766f02.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 7.1,
+        "scorewei": 7.1,
+        "scorebao": 7.1,
+        "scorejia": 7.1,
+        "brand": {
+            "brandid": "35",
+            "brandname": "好猫",
+            "desp": "好猫香烟创牌于1993年，是陕西宝鸡卷烟厂的代表品牌，定位高档卷烟，现拥有非常好猫（好猫金）、吉祥好猫、经典好猫（好猫炫蓝）、盛世好猫、时尚好猫等多个品种。好猫香烟1997年被中国消费者协会评为“信得过产品”，1998-1999年荣获“陕西名牌产品”称号，2000年被评为“陕西省五大名牌卷烟牌号”之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "31",
+        "commentnum": "16",
+        "othername": ""
+    }, {
+        "productid": "3685",
+        "productname": "土楼(1575冰抹茶)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/ae6b12999e1f5c7113398c03f5c617c2.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "390",
+            "brandname": "土楼",
+            "desp": "永定客家人依靠土楼聚族而居的生活方式，不仅孕育了土楼文明，还发展了生产力，而大规模种植烟草，奠定了“烟魁”文化繁荣的基础。“土楼”牌香烟的上市传承和宣传了永定条丝烟文化，堪称是客家土楼旅游商品的又一经典力作。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 7,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "6",
+        "commentnum": "2",
+        "othername": "土楼(1575 抹茶爆珠)"
+    }, {
+        "productid": "3679",
+        "productname": "龙凤呈祥(金·遇见)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/d3857a77b881c573c41eedb5415eb0e8.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "139",
+            "brandname": "龙凤呈祥",
+            "desp": "<b><font color=red>【已合并入“娇子”品牌旗下】</font></b>\r\n<br>\r\n龙凤呈祥香烟创牌于1997年，是川渝中烟旗下重点品牌之一，现有龙凤呈祥（喜庆珍品）、龙凤呈祥（喜庆经典）、龙凤呈祥（魅力软）、龙凤呈祥（魅力硬）、龙凤呈祥（硬）、龙凤呈祥（喜庆）、龙凤呈祥（佳品）等多个品种。龙凤呈祥香烟沿袭了中华传统文化中龙凤呈祥的图案和内涵，面世以来，龙凤呈祥以其独特的喜文化得到了广泛认可。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "21",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "315",
+        "productname": "云烟(94mm印象)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/a9449d32f8fab7997d7bffb5e3f29412.jpg",
+        "packprice": 65,
+        "barprice": 650,
+        "comscore": 7.1,
+        "scorewei": 7.3,
+        "scorebao": 7.2,
+        "scorejia": 6.8,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "352",
+        "commentnum": "41",
+        "othername": ""
+    }, {
+        "productid": "34",
+        "productname": "中南海(软精品)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/6ba3ee4b328394635ba391afe4c7dd30.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 7.3,
+        "scorewei": 7.5,
+        "scorebao": 7.2,
+        "scorejia": 7.2,
+        "brand": {
+            "brandid": "25",
+            "brandname": "中南海",
+            "desp": "中南海卷烟品牌现属上海烟草（集团）公司北京卷烟厂，1976年中南海对外试销，由此步入市场。1983年新混合型中南海卷烟诞生，1994年低焦油中南海成功研制，1999年后至今，中南海5mg、中南海8mg、中南海金8mg、中南海3mg纳米等等产品问世，形成了低危害中南海系列产品。中南海是我国36个名优卷烟品牌中唯一的低危害混合型卷烟品牌，以中南海（低焦油混合型）为代表的卷烟产品不仅行销全国，还远销日韩美台等多个国家和地区，备受青睐。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1532",
+        "commentnum": "213",
+        "othername": "流水音"
+    }, {
+        "productid": "3932",
+        "productname": "云烟(香格里拉)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/147dad39b75b78af08f7eb68f4441bdd.jpg",
+        "packprice": 40,
+        "barprice": 400,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3930",
+        "productname": "土楼(1575金中支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/3304636863f84fca8c0c3135d4adb88d.jpg",
+        "packprice": 40,
+        "barprice": 400,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "390",
+            "brandname": "土楼",
+            "desp": "永定客家人依靠土楼聚族而居的生活方式，不仅孕育了土楼文明，还发展了生产力，而大规模种植烟草，奠定了“烟魁”文化繁荣的基础。“土楼”牌香烟的上市传承和宣传了永定条丝烟文化，堪称是客家土楼旅游商品的又一经典力作。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3789",
+        "productname": "金圣(滕王阁长天)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/064ab38c39744d8ada4f9df402f6530d.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "6",
+        "commentnum": "5",
+        "othername": ""
+    }, {
+        "productid": "3916",
+        "productname": "天子(千里江山细支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/29eeea56aadd39d4ce7f3e8f328b0f03.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "117",
+            "brandname": "天子",
+            "desp": "<b><font color=red>【已合并入“娇子”品牌旗下】</font></b>\r\n<br>\r\n天子香烟是川渝中烟的超高端品牌，天子从问世就引起轰动，最初天子只有一个规格，零售价定在2000元/条，现在天子发展出两个规格天子（软、硬）系列，天子硬（天子硬黄亦即天子全开式）的零售价为1500元/条，天子软（天子软黄）的零售价为500元/条。天子取意自“天神之子”，采用明黄色系和龙元素，将东方文化体现到极致。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "5",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3863",
+        "productname": "玉溪(双中支翡翠)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/76d6c27b48f6e9d2d8d2847dc72b7b8e.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "52",
+            "brandname": "玉溪",
+            "desp": "玉溪香烟的名字源于红塔集团所在地——云南省玉溪市，玉溪卷烟定位于高档产品，追求品质。玉溪卷烟不仅代表着红塔集团的实力，还代表着玉溪的高原“水”文化。玉溪虽定位高端却不失亲和力，玉溪的理念“上善若水”代表着谦逊、执著、变通、务实、与人为善。这也正是玉溪品牌追求的境界。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "6",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3904",
+        "productname": "金圣(典藏瑞香)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/6a8c53dc418dc6893e6fa6d45a326abe.jpg",
+        "packprice": 65,
+        "barprice": 650,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3713",
+        "productname": "七匹狼(金砖细支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/0e83b371ac91e9a970648ebfb559d827.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 8,
+        "scorewei": 10,
+        "scorebao": 8,
+        "scorejia": 6,
+        "brand": {
+            "brandid": "108",
+            "brandname": "七匹狼",
+            "desp": "七匹狼品牌诞生于1995年，历经17年迅猛发展,跻身全国性重点骨干卷烟品牌行列。“通”系列是在创牌十五周年之际，以“吐纳有度”的智慧和“脱胎换骨”的决心，开创的“生态绵柔香”全新品类。“纯”系列是福建中烟凭借12年低焦技术积淀，以“低焦油，高品味”为理念，“典雅香韵，纯然境界”为全新品牌口号，于2011年打造的低焦卷烟标杆系列。“七匹狼”经典产品，保持始终如一的优异品质畅销于国内。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "13",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3209",
+        "productname": "兰州(飞天梦)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/2ef36d990dffbcf75e2f9e6d9226ddab.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 7.4,
+        "scorewei": 7.4,
+        "scorebao": 8,
+        "scorejia": 6.8,
+        "brand": {
+            "brandid": "67",
+            "brandname": "兰州",
+            "desp": "兰州卷烟始创于1971年，是西北地区卷烟的的代表品牌，产品包括有兰州经典、兰州吉祥、兰州珍品、兰州精品以及蓝兰州、黄兰州、红兰州等。包装设计上，兰州以飞天形象和敦煌为代表的传统文化为理念，极富特色；口味上，兰州独创了绵香型，增香保润，体现出兰州特有的是“绵、香、甜、柔、细、飘”。几十年如一日的精耕细作，兰州品牌在21世纪之初开始腾飞，2008年进入中国烟草的全国性重点品牌行列，缔造了西部区域的现代优秀品牌传奇。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "40",
+        "commentnum": "15",
+        "othername": ""
+    }, {
+        "productid": "3437",
+        "productname": "云烟(七彩印象)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/4adfbb07380b9dad4b71dee79436a2d6.jpg",
+        "packprice": 40,
+        "barprice": 400,
+        "comscore": 7.9,
+        "scorewei": 8,
+        "scorebao": 8.3,
+        "scorejia": 7.5,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "18",
+        "commentnum": "4",
+        "othername": ""
+    }, {
+        "productid": "3909",
+        "productname": "延安(硬)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/434f7622a7d023d0719bca3d095161e8.jpg",
+        "packprice": 10,
+        "barprice": 100,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "184",
+            "brandname": "延安",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "2",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3595",
+        "productname": "玉溪(中支华叶)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/1f1c83956468e1c855d88f305908b1d6.jpg",
+        "packprice": 80,
+        "barprice": 800,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "52",
+            "brandname": "玉溪",
+            "desp": "玉溪香烟的名字源于红塔集团所在地——云南省玉溪市，玉溪卷烟定位于高档产品，追求品质。玉溪卷烟不仅代表着红塔集团的实力，还代表着玉溪的高原“水”文化。玉溪虽定位高端却不失亲和力，玉溪的理念“上善若水”代表着谦逊、执著、变通、务实、与人为善。这也正是玉溪品牌追求的境界。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "4",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3462",
+        "productname": "七匹狼(蓝钻)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/0c70cce9f107756639772bcde2a342de.jpg",
+        "packprice": 13,
+        "barprice": 130,
+        "comscore": 6.5,
+        "scorewei": 7,
+        "scorebao": 7.5,
+        "scorejia": 5.1,
+        "brand": {
+            "brandid": "108",
+            "brandname": "七匹狼",
+            "desp": "七匹狼品牌诞生于1995年，历经17年迅猛发展,跻身全国性重点骨干卷烟品牌行列。“通”系列是在创牌十五周年之际，以“吐纳有度”的智慧和“脱胎换骨”的决心，开创的“生态绵柔香”全新品类。“纯”系列是福建中烟凭借12年低焦技术积淀，以“低焦油，高品味”为理念，“典雅香韵，纯然境界”为全新品牌口号，于2011年打造的低焦卷烟标杆系列。“七匹狼”经典产品，保持始终如一的优异品质畅销于国内。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "27",
+        "commentnum": "8",
+        "othername": ""
+    }, {
+        "productid": "3903",
+        "productname": "红塔山(传奇细支)升级版",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/7ab521fa88236e387f196eb82fa61706.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "128",
+            "brandname": "红塔山",
+            "desp": "红塔山卷烟创牌于1959年，得名于玉溪市境内的红塔山，是玉溪卷烟厂生产的作为国庆10周年献礼的第一包烟。红塔山如今已成为中国卷烟最著名的品牌之一，形成了翻盖红塔山、红塔山世纪、红塔山新、红塔山经典等多个品种和系列，尤其是红塔山“经典家族”，成为了中国烟草经典代表。红塔山以优质原料为基础，不断探索创新，在保证红塔山产品的经典品质上，走出了一条“山高人为峰”的特色道路。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "9",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3646",
+        "productname": "金圣(智圣出山·国味)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/bb80dab17e380493d25ba1936d94d407.jpg",
+        "packprice": 60,
+        "barprice": 600,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "5",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3535",
+        "productname": "延安(圣地河谷）",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/b192f75e7db80dba814d3cc98215a9b4.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 8.2,
+        "scorewei": 7.5,
+        "scorebao": 9.5,
+        "scorejia": 7.5,
+        "brand": {
+            "brandid": "184",
+            "brandname": "延安",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "23",
+        "commentnum": "5",
+        "othername": ""
+    }, {
+        "productid": "3906",
+        "productname": "七匹狼(翠碧嘉缘)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/5a377bb7d7852189b0cd941e9b01cf1f.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "108",
+            "brandname": "七匹狼",
+            "desp": "七匹狼品牌诞生于1995年，历经17年迅猛发展,跻身全国性重点骨干卷烟品牌行列。“通”系列是在创牌十五周年之际，以“吐纳有度”的智慧和“脱胎换骨”的决心，开创的“生态绵柔香”全新品类。“纯”系列是福建中烟凭借12年低焦技术积淀，以“低焦油，高品味”为理念，“典雅香韵，纯然境界”为全新品牌口号，于2011年打造的低焦卷烟标杆系列。“七匹狼”经典产品，保持始终如一的优异品质畅销于国内。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "2",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3723",
+        "productname": "黄鹤楼(硬峡谷柔情)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/9ce99db77e203ae96de1c1a42cd38652.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 8.2,
+        "scorewei": 8.2,
+        "scorebao": 8.2,
+        "scorejia": 8.2,
+        "brand": {
+            "brandid": "131",
+            "brandname": "黄鹤楼",
+            "desp": "黄鹤楼香烟得名于江南三大名楼之一的黄鹤楼，黄鹤楼品牌始创于20世纪30年代，是湖北省名优烟之一。1995年，黄鹤楼品牌全新上市，2004年更推出黄鹤楼1916产品，黄鹤楼品牌从此迅速崛起，备受关注，黄鹤楼也成为与中华、玉溪、芙蓉王等齐名的中国高档卷烟品牌之一。黄鹤楼以“天赐淡雅香”为口号，结合现代美学与古典文化，定位中式卷烟的经典品牌，构建黄鹤楼五大产品系列，诠释了经典·传世的时代品位。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "39",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3902",
+        "productname": "金圣(赣)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/155544f1f2768128afc40411c7392bfb.jpg",
+        "packprice": 14,
+        "barprice": 140,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 11,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3644",
+        "productname": "金圣(滕王阁·更上一层楼)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e7987a73874e05ec43e0a588847a0cee.jpg",
+        "packprice": 14,
+        "barprice": 140,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "111",
+            "brandname": "金圣",
+            "desp": "金圣卷烟创牌于1994年，为南昌卷烟厂的代表品牌，广受关注的有软盒金圣、硬盒金圣、软盒东方金圣（金圣软红）、金圣吉品、金圣盛世典藏等产品，金圣独创的草本提取“金圣香”，使金圣成为国内外唯一荣获国际发明金奖的卷烟产品和中式特色卷烟的领军品牌，收到国内外的广泛关注和赞誉。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "8",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3510",
+        "productname": "古田(红军灰)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/adcc249b12c1e7919043f496f8e4c78b.jpg",
+        "packprice": 40,
+        "barprice": 400,
+        "comscore": 5,
+        "scorewei": 5,
+        "scorebao": 6.7,
+        "scorejia": 3.3,
+        "brand": {
+            "brandid": "425",
+            "brandname": "古田",
+            "desp": "为纪念古田会议，从上世纪60年代起，地处全国著名革命老区的龙岩卷烟厂以闽西盛产的优质烤烟为主要原料，开发了具有福建地方特色的“古田”牌香烟。1991年，龙岩卷烟厂对“古田”烟进行改造，配方改为浓郁香味，以古田会议会址作为烟标主图案。新开发的硬盒条包“古田”烟曾获福建省优质产品称号。之后，该厂又开发了翻盖“红古田”“精品古田”等。1994年，“古田”烟荣获第五届亚洲太平洋国际贸易博览会金奖。2004年，福建中烟实施卷烟品牌整合战略，“古田”烟更名为“七匹狼（古田）”，成为全国性卷烟重点骨干品牌“七匹狼”家族的成员。2015年，福建中烟重新恢复古田品牌。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "22",
+        "commentnum": "13",
+        "othername": ""
+    }, {
+        "productid": "3526",
+        "productname": "利群(红利)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/c7cd68a13defda3b71a4382001ed3b07.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 3.7,
+        "scorewei": 5,
+        "scorebao": 5,
+        "scorejia": 1,
+        "brand": {
+            "brandid": "78",
+            "brandname": "利群",
+            "desp": "利群卷烟始创于1960年，是浙江中烟工业有限责任公司杭州卷烟厂的代表品牌，利群老版、利群软蓝等深受消费者喜爱，1995年老牌翻新，至今已形成利群新版、利群休闲、利群神州、利群阳光、利群长嘴系列等多个品种和系列，产品以醇和淡雅的风格获得了认可，利群阳光助学行动也使得利群成为了消费者心目富有责任感的品牌之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "65",
+        "commentnum": "5",
+        "othername": ""
+    }, {
+        "productid": "3163",
+        "productname": "娇子(格调)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e8103e0f4fac249b2c3a9fde423f51a1.jpg",
+        "packprice": 18,
+        "barprice": 180,
+        "comscore": 7.3,
+        "scorewei": 6.4,
+        "scorebao": 8.7,
+        "scorejia": 6.8,
+        "brand": {
+            "brandid": "42",
+            "brandname": "娇子",
+            "desp": "现拥有娇子传奇天子、娇子硬功夫王、娇子硬功夫7mg、功夫娇子10mg等多个系列产品的娇子，创牌于1995年，定位于中高端市场，是中国烟草36个名优品牌之一，其中娇子传奇天子和功夫娇子系列，更是一度成为烟民的关注热点。娇子以四川著名的大熊猫为品牌形象，核心理念为中国娇子、精英文化，口味以细腻、醇和、舒适为主，产品覆盖面广，增长强劲。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 9,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "20",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3894",
+        "productname": "延安(红韵)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/3f623e5cf6f7cc944730b661e5ba881d.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "184",
+            "brandname": "延安",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "2",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3507",
+        "productname": "延安(公主)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/157cfb431543532d2105d5a9414077ef.jpg",
+        "packprice": 13,
+        "barprice": 130,
+        "comscore": 8.8,
+        "scorewei": 8.3,
+        "scorebao": 9.1,
+        "scorejia": 9.1,
+        "brand": {
+            "brandid": "184",
+            "brandname": "延安",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "28",
+        "commentnum": "13",
+        "othername": ""
+    }, {
+        "productid": "3428",
+        "productname": "黄山(新版硬记忆)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/f4446ab8d9bc6140008b51ce9f250ca1.jpg",
+        "packprice": 10,
+        "barprice": 100,
+        "comscore": 8.3,
+        "scorewei": 8,
+        "scorebao": 8.8,
+        "scorejia": 8,
+        "brand": {
+            "brandid": "31",
+            "brandname": "黄山",
+            "desp": "黄山卷烟创牌于1958年，是安徽中烟工业公司蚌埠卷烟厂的代表品牌，1993年推出特制黄山获得巨大成功后迅速发展，现拥有黄山万象、黄山中国风、黄山新视界、黄山新概念、黄山50、黄山1993、黄山硬以及黄山皖烟系列和黄山迎客松系列等等多个品种和系列，“一品黄山，天高云淡”、“中国香，中国味”等广告语响遍大江南北，成为中国烟草品牌一道亮丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "0",
+            "typename": null
+        },
+        "pingnum": "16",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3893",
+        "productname": "娇子(金格调)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/99abc29c630e40dbd740eed57469ac32.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "42",
+            "brandname": "娇子",
+            "desp": "现拥有娇子传奇天子、娇子硬功夫王、娇子硬功夫7mg、功夫娇子10mg等多个系列产品的娇子，创牌于1995年，定位于中高端市场，是中国烟草36个名优品牌之一，其中娇子传奇天子和功夫娇子系列，更是一度成为烟民的关注热点。娇子以四川著名的大熊猫为品牌形象，核心理念为中国娇子、精英文化，口味以细腻、醇和、舒适为主，产品覆盖面广，增长强劲。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3547",
+        "productname": "云烟(中支金腰带)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/9dfc5a198ba90712448e180b621d1b37.jpg",
+        "packprice": 35,
+        "barprice": 350,
+        "comscore": 8.4,
+        "scorewei": 8.7,
+        "scorebao": 8.7,
+        "scorejia": 7.8,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 9,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "22",
+        "commentnum": "6",
+        "othername": ""
+    }, {
+        "productid": "3911",
+        "productname": "黄金叶（洛阳牡丹国色细支）",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/564993a5e3e70df8a0492b040463a14d.jpg",
+        "packprice": 45,
+        "barprice": 450,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "138",
+            "brandname": "黄金叶",
+            "desp": "黄金叶香烟创牌于1951年，是河南中烟的重点品牌之一，现有黄金叶(茗仕之风)、黄金叶(世纪之星)、黄金叶(世纪之光)等品种，尤其是黄金叶(茗仕之风)定位高端，作为河南卷烟顶尖的品牌，从上市起就备受关注。黄金叶选择了“名士”，为自己找到了文化定位，黄金叶(茗仕之风)为黄金叶品牌创造了一条独特的文化道路。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3914",
+        "productname": "白沙(硬和天下双中支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/55987a35854401f3be8716de332283cc.jpg",
+        "packprice": 90,
+        "barprice": 900,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "23",
+            "brandname": "白沙",
+            "desp": "白沙牌卷烟创牌于1975年，如今已发展成为拥有白沙和天下、白沙和极品、白沙珍品、白沙紫和、白沙软精品、白沙精品二代、白沙新精品、白沙特制精品、白沙和特制、白沙银世界、白沙硬、白沙软等不同价格和规格的系列，白沙品牌多次获得全国驰名商标、中国名牌产品等荣誉，市场影响力、占有力和销量连续多年都排名全国第一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "3",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3910",
+        "productname": "王冠(国粹名角)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/68d345713555d396eabb33c004c6cb85.jpg",
+        "packprice": 50,
+        "barprice": 500,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "260",
+            "brandname": "王冠",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 0,
+        "type": {
+            "typeid": "4",
+            "typename": "雪茄型"
+        },
+        "pingnum": "0",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3908",
+        "productname": "南京(细支九五)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/cb232861c0c33d059788c745b2b6ed35.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 7.7,
+        "scorewei": 8,
+        "scorebao": 10,
+        "scorejia": 5,
+        "brand": {
+            "brandid": "115",
+            "brandname": "南京",
+            "desp": "南京卷烟是江苏中烟南京卷烟厂的代表品牌，目前南京拥有南京九五、南京五星、南京特醇、南京红、南京喜庆、南京佳品、南京绿、南京精品、南京珍品等品种和系列。南京香烟最早诞生于中华民国时期的南京光明兄弟烟厂，1956年公私合营勤丰烟厂生产南京第二代，1968年国营南京卷烟厂推出南京第三代，1982年又改进推出了南京第四代，90年代南京卷烟厂推出第五代南京，受到市场广泛认可。南京品牌不断完善和成长，2008年成为全国性卷烟重点骨干品牌之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 5,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "6",
+        "commentnum": "4",
+        "othername": ""
+    }, {
+        "productid": "3905",
+        "productname": "云烟(小熊猫)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/dbe6c2881a40331cfd8dc0f4217d0a66.jpg",
+        "packprice": 22,
+        "barprice": 220,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "2129",
+        "productname": "云烟(小熊猫精品)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/eb1f96ce2b815bfd7c0ee79bf1c6adce.jpg",
+        "packprice": 22,
+        "barprice": 220,
+        "comscore": 6.5,
+        "scorewei": 6.6,
+        "scorebao": 6.5,
+        "scorejia": 6.5,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "477",
+        "commentnum": "68",
+        "othername": ""
+    }, {
+        "productid": "3901",
+        "productname": "好猫(细支天赋)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/0f38cad3ee04554eee6d3ac931825b50.jpg",
+        "packprice": 40,
+        "barprice": 400,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "35",
+            "brandname": "好猫",
+            "desp": "好猫香烟创牌于1993年，是陕西宝鸡卷烟厂的代表品牌，定位高档卷烟，现拥有非常好猫（好猫金）、吉祥好猫、经典好猫（好猫炫蓝）、盛世好猫、时尚好猫等多个品种。好猫香烟1997年被中国消费者协会评为“信得过产品”，1998-1999年荣获“陕西名牌产品”称号，2000年被评为“陕西省五大名牌卷烟牌号”之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 7,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3898",
+        "productname": "黄鹤楼(细支珍品)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/149c4ba5d3256ab8719290b8acedb936.jpg",
+        "packprice": 50,
+        "barprice": 500,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "131",
+            "brandname": "黄鹤楼",
+            "desp": "黄鹤楼香烟得名于江南三大名楼之一的黄鹤楼，黄鹤楼品牌始创于20世纪30年代，是湖北省名优烟之一。1995年，黄鹤楼品牌全新上市，2004年更推出黄鹤楼1916产品，黄鹤楼品牌从此迅速崛起，备受关注，黄鹤楼也成为与中华、玉溪、芙蓉王等齐名的中国高档卷烟品牌之一。黄鹤楼以“天赐淡雅香”为口号，结合现代美学与古典文化，定位中式卷烟的经典品牌，构建黄鹤楼五大产品系列，诠释了经典·传世的时代品位。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "3",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3896",
+        "productname": "云烟(黑金刚印象)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/71dcb80fa53bfdfa253bc5d30e13c841.jpg",
+        "packprice": 60,
+        "barprice": 600,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "8",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3617",
+        "productname": "红塔山(硬传奇)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/f5802bf2cca5ddc6cabf9bd196890586.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 7.7,
+        "scorewei": 6,
+        "scorebao": 10,
+        "scorejia": 7,
+        "brand": {
+            "brandid": "128",
+            "brandname": "红塔山",
+            "desp": "红塔山卷烟创牌于1959年，得名于玉溪市境内的红塔山，是玉溪卷烟厂生产的作为国庆10周年献礼的第一包烟。红塔山如今已成为中国卷烟最著名的品牌之一，形成了翻盖红塔山、红塔山世纪、红塔山新、红塔山经典等多个品种和系列，尤其是红塔山“经典家族”，成为了中国烟草经典代表。红塔山以优质原料为基础，不断探索创新，在保证红塔山产品的经典品质上，走出了一条“山高人为峰”的特色道路。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "57",
+        "commentnum": "6",
+        "othername": ""
+    }, {
+        "productid": "2964",
+        "productname": "红塔山(传奇)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/46fc2dad9f77364024470083a78fe31a.jpg",
+        "packprice": 14,
+        "barprice": 140,
+        "comscore": 7.4,
+        "scorewei": 7.1,
+        "scorebao": 8,
+        "scorejia": 7,
+        "brand": {
+            "brandid": "128",
+            "brandname": "红塔山",
+            "desp": "红塔山卷烟创牌于1959年，得名于玉溪市境内的红塔山，是玉溪卷烟厂生产的作为国庆10周年献礼的第一包烟。红塔山如今已成为中国卷烟最著名的品牌之一，形成了翻盖红塔山、红塔山世纪、红塔山新、红塔山经典等多个品种和系列，尤其是红塔山“经典家族”，成为了中国烟草经典代表。红塔山以优质原料为基础，不断探索创新，在保证红塔山产品的经典品质上，走出了一条“山高人为峰”的特色道路。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "368",
+        "commentnum": "117",
+        "othername": ""
+    }, {
+        "productid": "3890",
+        "productname": "云烟(细支云龙)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/fe2fbb79947a48a3f37d9838560bf2f5.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "13",
+        "commentnum": "4",
+        "othername": ""
+    }, {
+        "productid": "3872",
+        "productname": "云烟(软珍红钻)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/6cfc9ab7fe6f43970c9a66917fdf50d5.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 4.7,
+        "scorewei": 3,
+        "scorebao": 7,
+        "scorejia": 4,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 11,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "16",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "609",
+        "productname": "兰州(16支吉祥)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/3bacc03d49be27765b3fa12dd14255aa.jpg",
+        "packprice": 20,
+        "barprice": 200,
+        "comscore": 7.6,
+        "scorewei": 7.5,
+        "scorebao": 8.3,
+        "scorejia": 6.9,
+        "brand": {
+            "brandid": "67",
+            "brandname": "兰州",
+            "desp": "兰州卷烟始创于1971年，是西北地区卷烟的的代表品牌，产品包括有兰州经典、兰州吉祥、兰州珍品、兰州精品以及蓝兰州、黄兰州、红兰州等。包装设计上，兰州以飞天形象和敦煌为代表的传统文化为理念，极富特色；口味上，兰州独创了绵香型，增香保润，体现出兰州特有的是“绵、香、甜、柔、细、飘”。几十年如一日的精耕细作，兰州品牌在21世纪之初开始腾飞，2008年进入中国烟草的全国性重点品牌行列，缔造了西部区域的现代优秀品牌传奇。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1702",
+        "commentnum": "296",
+        "othername": ""
+    }, {
+        "productid": "3879",
+        "productname": "兰州(黑中支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/26b43e27e1af8275d33c47ddfcb4509d.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 1,
+        "scorewei": 1,
+        "scorebao": 1,
+        "scorejia": 1,
+        "brand": {
+            "brandid": "67",
+            "brandname": "兰州",
+            "desp": "兰州卷烟始创于1971年，是西北地区卷烟的的代表品牌，产品包括有兰州经典、兰州吉祥、兰州珍品、兰州精品以及蓝兰州、黄兰州、红兰州等。包装设计上，兰州以飞天形象和敦煌为代表的传统文化为理念，极富特色；口味上，兰州独创了绵香型，增香保润，体现出兰州特有的是“绵、香、甜、柔、细、飘”。几十年如一日的精耕细作，兰州品牌在21世纪之初开始腾飞，2008年进入中国烟草的全国性重点品牌行列，缔造了西部区域的现代优秀品牌传奇。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "15",
+        "commentnum": "8",
+        "othername": ""
+    }, {
+        "productid": "3591",
+        "productname": "雪莲(细支1960)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/cce592b42f9468c3526ab55f6bc8354c.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 6,
+        "scorewei": 6,
+        "scorebao": 6,
+        "scorejia": 6,
+        "brand": {
+            "brandid": "183",
+            "brandname": "雪莲",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "16",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3729",
+        "productname": "黄鹤楼(生态)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e7c7b608d1dd052a555d27c835b95c42.jpg",
+        "packprice": 40,
+        "barprice": 400,
+        "comscore": 10,
+        "scorewei": 10,
+        "scorebao": 10,
+        "scorejia": 10,
+        "brand": {
+            "brandid": "131",
+            "brandname": "黄鹤楼",
+            "desp": "黄鹤楼香烟得名于江南三大名楼之一的黄鹤楼，黄鹤楼品牌始创于20世纪30年代，是湖北省名优烟之一。1995年，黄鹤楼品牌全新上市，2004年更推出黄鹤楼1916产品，黄鹤楼品牌从此迅速崛起，备受关注，黄鹤楼也成为与中华、玉溪、芙蓉王等齐名的中国高档卷烟品牌之一。黄鹤楼以“天赐淡雅香”为口号，结合现代美学与古典文化，定位中式卷烟的经典品牌，构建黄鹤楼五大产品系列，诠释了经典·传世的时代品位。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "4",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3418",
+        "productname": "兰州(陇飞九天)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/749c50f9038d5db032b1390a2320b36d.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 7,
+        "scorewei": 7.2,
+        "scorebao": 7.3,
+        "scorejia": 6.4,
+        "brand": {
+            "brandid": "67",
+            "brandname": "兰州",
+            "desp": "兰州卷烟始创于1971年，是西北地区卷烟的的代表品牌，产品包括有兰州经典、兰州吉祥、兰州珍品、兰州精品以及蓝兰州、黄兰州、红兰州等。包装设计上，兰州以飞天形象和敦煌为代表的传统文化为理念，极富特色；口味上，兰州独创了绵香型，增香保润，体现出兰州特有的是“绵、香、甜、柔、细、飘”。几十年如一日的精耕细作，兰州品牌在21世纪之初开始腾飞，2008年进入中国烟草的全国性重点品牌行列，缔造了西部区域的现代优秀品牌传奇。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "21",
+        "commentnum": "8",
+        "othername": ""
+    }, {
+        "productid": "3745",
+        "productname": "龙烟(北国风光)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/a5c7fc83f6caaae73f547f956535b042.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "247",
+            "brandname": "龙烟",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3876",
+        "productname": "冬虫夏草(硬)新版",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/900d2950086b6474c1457dca5f4a4ba2.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "89",
+            "brandname": "冬虫夏草",
+            "desp": "冬虫夏草香烟创牌于2001年，是内蒙古昆明卷烟有限公司的高端代表品牌之一，冬虫夏草是一种传统的名贵滋补中药材，冬虫夏草香烟的特色是将冬虫夏草、西洋参经科学提纯配比加入烟丝。冬虫夏草铁盒16支装在市面上不多见，可以称得上是极品烟，冬虫夏草在全国拥有较高的知名度，但销售的受限使冬虫夏草成为真正意义上的区域性卷烟奢侈品。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "312",
+        "productname": "云烟(紫)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/b715716c4799d58f4fca9aee3da978b3.jpg",
+        "packprice": 10,
+        "barprice": 100,
+        "comscore": 7.3,
+        "scorewei": 7.5,
+        "scorebao": 7,
+        "scorejia": 7.6,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "1720",
+        "commentnum": "476",
+        "othername": ""
+    }, {
+        "productid": "3797",
+        "productname": "白沙(硬白细支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/6bc6eecc7310aee353e789715dd52241.jpg",
+        "packprice": 22,
+        "barprice": 220,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "23",
+            "brandname": "白沙",
+            "desp": "白沙牌卷烟创牌于1975年，如今已发展成为拥有白沙和天下、白沙和极品、白沙珍品、白沙紫和、白沙软精品、白沙精品二代、白沙新精品、白沙特制精品、白沙和特制、白沙银世界、白沙硬、白沙软等不同价格和规格的系列，白沙品牌多次获得全国驰名商标、中国名牌产品等荣誉，市场影响力、占有力和销量连续多年都排名全国第一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "14",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "2938",
+        "productname": "哈尔滨(龙烟万福)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/47bed16b97a8de3684a3c78c516b28db.jpg",
+        "packprice": 32,
+        "barprice": 320,
+        "comscore": 7.9,
+        "scorewei": 8,
+        "scorebao": 8.4,
+        "scorejia": 7.2,
+        "brand": {
+            "brandid": "232",
+            "brandname": "哈尔滨",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "38",
+        "commentnum": "14",
+        "othername": ""
+    }, {
+        "productid": "3680",
+        "productname": "黄山(黑马细支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/0ff3fd2c33b43885bf4fca5042ed5951.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "31",
+            "brandname": "黄山",
+            "desp": "黄山卷烟创牌于1958年，是安徽中烟工业公司蚌埠卷烟厂的代表品牌，1993年推出特制黄山获得巨大成功后迅速发展，现拥有黄山万象、黄山中国风、黄山新视界、黄山新概念、黄山50、黄山1993、黄山硬以及黄山皖烟系列和黄山迎客松系列等等多个品种和系列，“一品黄山，天高云淡”、“中国香，中国味”等广告语响遍大江南北，成为中国烟草品牌一道亮丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "9",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3661",
+        "productname": "兰州(细支飞天梦)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/98bd8c79712258f77e9a98037bc6c06b.jpg",
+        "packprice": 65,
+        "barprice": 650,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "67",
+            "brandname": "兰州",
+            "desp": "兰州卷烟始创于1971年，是西北地区卷烟的的代表品牌，产品包括有兰州经典、兰州吉祥、兰州珍品、兰州精品以及蓝兰州、黄兰州、红兰州等。包装设计上，兰州以飞天形象和敦煌为代表的传统文化为理念，极富特色；口味上，兰州独创了绵香型，增香保润，体现出兰州特有的是“绵、香、甜、柔、细、飘”。几十年如一日的精耕细作，兰州品牌在21世纪之初开始腾飞，2008年进入中国烟草的全国性重点品牌行列，缔造了西部区域的现代优秀品牌传奇。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "6",
+        "commentnum": "4",
+        "othername": ""
+    }, {
+        "productid": "3378",
+        "productname": "古田(光芒)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/7cee2b933da6e63a10cb71ba7d96b1a3.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 8.4,
+        "scorewei": 8.7,
+        "scorebao": 8.5,
+        "scorejia": 8,
+        "brand": {
+            "brandid": "425",
+            "brandname": "古田",
+            "desp": "为纪念古田会议，从上世纪60年代起，地处全国著名革命老区的龙岩卷烟厂以闽西盛产的优质烤烟为主要原料，开发了具有福建地方特色的“古田”牌香烟。1991年，龙岩卷烟厂对“古田”烟进行改造，配方改为浓郁香味，以古田会议会址作为烟标主图案。新开发的硬盒条包“古田”烟曾获福建省优质产品称号。之后，该厂又开发了翻盖“红古田”“精品古田”等。1994年，“古田”烟荣获第五届亚洲太平洋国际贸易博览会金奖。2004年，福建中烟实施卷烟品牌整合战略，“古田”烟更名为“七匹狼（古田）”，成为全国性卷烟重点骨干品牌“七匹狼”家族的成员。2015年，福建中烟重新恢复古田品牌。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "11",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3438",
+        "productname": "兰州(心如意)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/78dfc17480e9a8473a8ea21eaa85dcf7.jpg",
+        "packprice": 11,
+        "barprice": 110,
+        "comscore": 7.8,
+        "scorewei": 6.6,
+        "scorebao": 8.8,
+        "scorejia": 8.1,
+        "brand": {
+            "brandid": "67",
+            "brandname": "兰州",
+            "desp": "兰州卷烟始创于1971年，是西北地区卷烟的的代表品牌，产品包括有兰州经典、兰州吉祥、兰州珍品、兰州精品以及蓝兰州、黄兰州、红兰州等。包装设计上，兰州以飞天形象和敦煌为代表的传统文化为理念，极富特色；口味上，兰州独创了绵香型，增香保润，体现出兰州特有的是“绵、香、甜、柔、细、飘”。几十年如一日的精耕细作，兰州品牌在21世纪之初开始腾飞，2008年进入中国烟草的全国性重点品牌行列，缔造了西部区域的现代优秀品牌传奇。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "41",
+        "commentnum": "19",
+        "othername": ""
+    }, {
+        "productid": "3614",
+        "productname": "黄鹤楼(硬天下胜景)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/8c2cece72c6f09b5b3fcb6177ea42748.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 2.1,
+        "scorewei": 1.8,
+        "scorebao": 2.7,
+        "scorejia": 1.8,
+        "brand": {
+            "brandid": "131",
+            "brandname": "黄鹤楼",
+            "desp": "黄鹤楼香烟得名于江南三大名楼之一的黄鹤楼，黄鹤楼品牌始创于20世纪30年代，是湖北省名优烟之一。1995年，黄鹤楼品牌全新上市，2004年更推出黄鹤楼1916产品，黄鹤楼品牌从此迅速崛起，备受关注，黄鹤楼也成为与中华、玉溪、芙蓉王等齐名的中国高档卷烟品牌之一。黄鹤楼以“天赐淡雅香”为口号，结合现代美学与古典文化，定位中式卷烟的经典品牌，构建黄鹤楼五大产品系列，诠释了经典·传世的时代品位。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "29",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3286",
+        "productname": "真龙(刘三姐)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/b2ea0a7a6d2e6010a025f218afba9941.jpg",
+        "packprice": 20,
+        "barprice": 200,
+        "comscore": 6.2,
+        "scorewei": 6.4,
+        "scorebao": 6.6,
+        "scorejia": 5.6,
+        "brand": {
+            "brandid": "56",
+            "brandname": "真龙",
+            "desp": "真龙卷烟创牌于2001年，是广西中烟工业有限责任公司的主导品牌，目前主要产品有真龙盛世、真龙金韵、真龙神韵、真龙海韵、真龙鸿韵、真龙天韵、真龙祥云、真龙珍品、真龙天翔、真龙娇子等，产品概念为“高香气、低焦油、低危害”，凭借独特的口味和中华传统龙文化的包装，在激烈的市场竞争中迅速成长，成为全行业成长性最好的卷烟品牌之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "40",
+        "commentnum": "16",
+        "othername": ""
+    }, {
+        "productid": "3870",
+        "productname": "云烟(时光码头)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/e14b2059cda69ea9b56f0023ca57256c.jpg",
+        "packprice": 50,
+        "barprice": 500,
+        "comscore": 10,
+        "scorewei": 10,
+        "scorebao": 10,
+        "scorejia": 10,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "3",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3362",
+        "productname": "龙凤呈祥(国色天香)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/ca6c4f05fe80f6d2c5f4e38b5a1fe925.jpg",
+        "packprice": 20,
+        "barprice": 200,
+        "comscore": 5.5,
+        "scorewei": 6.4,
+        "scorebao": 5.5,
+        "scorejia": 4.5,
+        "brand": {
+            "brandid": "139",
+            "brandname": "龙凤呈祥",
+            "desp": "<b><font color=red>【已合并入“娇子”品牌旗下】</font></b>\r\n<br>\r\n龙凤呈祥香烟创牌于1997年，是川渝中烟旗下重点品牌之一，现有龙凤呈祥（喜庆珍品）、龙凤呈祥（喜庆经典）、龙凤呈祥（魅力软）、龙凤呈祥（魅力硬）、龙凤呈祥（硬）、龙凤呈祥（喜庆）、龙凤呈祥（佳品）等多个品种。龙凤呈祥香烟沿袭了中华传统文化中龙凤呈祥的图案和内涵，面世以来，龙凤呈祥以其独特的喜文化得到了广泛认可。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "5",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3867",
+        "productname": "黄山(最美高铁新版)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/1a7a822d31e9bc406b8140a1dda0947e.jpg",
+        "packprice": 20,
+        "barprice": 200,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "31",
+            "brandname": "黄山",
+            "desp": "黄山卷烟创牌于1958年，是安徽中烟工业公司蚌埠卷烟厂的代表品牌，1993年推出特制黄山获得巨大成功后迅速发展，现拥有黄山万象、黄山中国风、黄山新视界、黄山新概念、黄山50、黄山1993、黄山硬以及黄山皖烟系列和黄山迎客松系列等等多个品种和系列，“一品黄山，天高云淡”、“中国香，中国味”等广告语响遍大江南北，成为中国烟草品牌一道亮丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3605",
+        "productname": "红塔山(新时代)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/55f83c6418bb4ab79f4a3accfdb59729.jpg",
+        "packprice": 10,
+        "barprice": 100,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "128",
+            "brandname": "红塔山",
+            "desp": "红塔山卷烟创牌于1959年，得名于玉溪市境内的红塔山，是玉溪卷烟厂生产的作为国庆10周年献礼的第一包烟。红塔山如今已成为中国卷烟最著名的品牌之一，形成了翻盖红塔山、红塔山世纪、红塔山新、红塔山经典等多个品种和系列，尤其是红塔山“经典家族”，成为了中国烟草经典代表。红塔山以优质原料为基础，不断探索创新，在保证红塔山产品的经典品质上，走出了一条“山高人为峰”的特色道路。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "71",
+        "commentnum": "10",
+        "othername": ""
+    }, {
+        "productid": "2116",
+        "productname": "黄山(软锦绣)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/1ea815fd4062e18e267e3b6ef0cdf7c8.jpg",
+        "packprice": 16,
+        "barprice": 160,
+        "comscore": 7.4,
+        "scorewei": 7.1,
+        "scorebao": 8.2,
+        "scorejia": 6.9,
+        "brand": {
+            "brandid": "31",
+            "brandname": "黄山",
+            "desp": "黄山卷烟创牌于1958年，是安徽中烟工业公司蚌埠卷烟厂的代表品牌，1993年推出特制黄山获得巨大成功后迅速发展，现拥有黄山万象、黄山中国风、黄山新视界、黄山新概念、黄山50、黄山1993、黄山硬以及黄山皖烟系列和黄山迎客松系列等等多个品种和系列，“一品黄山，天高云淡”、“中国香，中国味”等广告语响遍大江南北，成为中国烟草品牌一道亮丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "225",
+        "commentnum": "45",
+        "othername": ""
+    }, {
+        "productid": "3602",
+        "productname": "雪莲(天韵)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/a35e6b82c2d5492f8097a24f98454b75.jpg",
+        "packprice": 35,
+        "barprice": 350,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "183",
+            "brandname": "雪莲",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "8",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3616",
+        "productname": "人民大会堂(大生产振兴)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/63c0d5c46880aa2cf89dd6ebf592596d.jpg",
+        "packprice": 20,
+        "barprice": 200,
+        "comscore": 5.3,
+        "scorewei": 10,
+        "scorebao": 0,
+        "scorejia": 6,
+        "brand": {
+            "brandid": "174",
+            "brandname": "人民大会堂",
+            "desp": "人民大会堂是营口卷烟厂（现属红塔集团）于1960年注册的卷烟牌号，现有人民大会堂(硬红)、人民大会堂(软红)、人民大会堂(本香)、人民大会堂(珍品醇香)、人民大会堂(双色红)、人民大会堂(和谐)等产品。20世纪80年代，人民大会堂本是作为人民大会堂的纪念品而专门生产，1999年人民大会堂品牌进行全方位的产品改造后，正式推向市场。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "5",
+        "commentnum": "5",
+        "othername": ""
+    }, {
+        "productid": "3246",
+        "productname": "紫气东来(祥瑞)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/955ca753e599111ceafb17545c73fe1d.jpg",
+        "packprice": 35,
+        "barprice": 350,
+        "comscore": 7.8,
+        "scorewei": 7.4,
+        "scorebao": 8.9,
+        "scorejia": 7.1,
+        "brand": {
+            "brandid": "391",
+            "brandname": "紫气东来",
+            "desp": "",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "18",
+        "commentnum": "6",
+        "othername": ""
+    }, {
+        "productid": "3628",
+        "productname": "钻石(70mm玉兰)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/a0c59619aff03f024c356a4a69b08b5b.jpg",
+        "packprice": 16,
+        "barprice": 160,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "144",
+            "brandname": "钻石",
+            "desp": "钻石卷烟创牌于2001年，是河北中烟张家口卷烟厂的代表品牌，拥有红钻石、银钻石、紫钻石、金钻石、蓝钻石等多个系列，其中钻石景泰、钻石锦绣、钻石国嘴120、钻石如意、钻石珍品等，受到烟民的好评。钻石凭借“物超所值”的理念，迅速成长壮大起来，成为河北烟草一道靓丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "37",
+        "commentnum": "12",
+        "othername": ""
+    }, {
+        "productid": "3191",
+        "productname": "钻石(风尚心世界)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/dedba5e62786d12ba57d4199798021fd.jpg",
+        "packprice": 15,
+        "barprice": 150,
+        "comscore": 7.8,
+        "scorewei": 7.6,
+        "scorebao": 7.8,
+        "scorejia": 8,
+        "brand": {
+            "brandid": "144",
+            "brandname": "钻石",
+            "desp": "钻石卷烟创牌于2001年，是河北中烟张家口卷烟厂的代表品牌，拥有红钻石、银钻石、紫钻石、金钻石、蓝钻石等多个系列，其中钻石景泰、钻石锦绣、钻石国嘴120、钻石如意、钻石珍品等，受到烟民的好评。钻石凭借“物超所值”的理念，迅速成长壮大起来，成为河北烟草一道靓丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "6",
+        "commentnum": "2",
+        "othername": ""
+    }, {
+        "productid": "3630",
+        "productname": "钻石(尚风玉兰)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/99c75845291971954f23989dbb16e92d.jpg",
+        "packprice": 16,
+        "barprice": 160,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "144",
+            "brandname": "钻石",
+            "desp": "钻石卷烟创牌于2001年，是河北中烟张家口卷烟厂的代表品牌，拥有红钻石、银钻石、紫钻石、金钻石、蓝钻石等多个系列，其中钻石景泰、钻石锦绣、钻石国嘴120、钻石如意、钻石珍品等，受到烟民的好评。钻石凭借“物超所值”的理念，迅速成长壮大起来，成为河北烟草一道靓丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "0",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3629",
+        "productname": "钻石(荷花绿水青山)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/5fa9d141981a469d8ac2fb68c770e11f.jpg",
+        "packprice": 100,
+        "barprice": 1000,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "144",
+            "brandname": "钻石",
+            "desp": "钻石卷烟创牌于2001年，是河北中烟张家口卷烟厂的代表品牌，拥有红钻石、银钻石、紫钻石、金钻石、蓝钻石等多个系列，其中钻石景泰、钻石锦绣、钻石国嘴120、钻石如意、钻石珍品等，受到烟民的好评。钻石凭借“物超所值”的理念，迅速成长壮大起来，成为河北烟草一道靓丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "7",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "2331",
+        "productname": "钻石(时尚粗支)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/7ab698b0a439937162938a97e80e0808.jpg",
+        "packprice": 14,
+        "barprice": 140,
+        "comscore": 6.9,
+        "scorewei": 7.2,
+        "scorebao": 7.1,
+        "scorejia": 6.3,
+        "brand": {
+            "brandid": "144",
+            "brandname": "钻石",
+            "desp": "钻石卷烟创牌于2001年，是河北中烟张家口卷烟厂的代表品牌，拥有红钻石、银钻石、紫钻石、金钻石、蓝钻石等多个系列，其中钻石景泰、钻石锦绣、钻石国嘴120、钻石如意、钻石珍品等，受到烟民的好评。钻石凭借“物超所值”的理念，迅速成长壮大起来，成为河北烟草一道靓丽的风景线。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "39",
+        "commentnum": "7",
+        "othername": ""
+    }, {
+        "productid": "3376",
+        "productname": "真龙(前程似锦)新版",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/393afc0fec8e6ca68aee5c6fe510b52a.jpg",
+        "packprice": 16,
+        "barprice": 160,
+        "comscore": 5.4,
+        "scorewei": 5.2,
+        "scorebao": 6.1,
+        "scorejia": 4.8,
+        "brand": {
+            "brandid": "56",
+            "brandname": "真龙",
+            "desp": "真龙卷烟创牌于2001年，是广西中烟工业有限责任公司的主导品牌，目前主要产品有真龙盛世、真龙金韵、真龙神韵、真龙海韵、真龙鸿韵、真龙天韵、真龙祥云、真龙珍品、真龙天翔、真龙娇子等，产品概念为“高香气、低焦油、低危害”，凭借独特的口味和中华传统龙文化的包装，在激烈的市场竞争中迅速成长，成为全行业成长性最好的卷烟品牌之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 10,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "5",
+        "commentnum": "0",
+        "othername": ""
+    }, {
+        "productid": "3698",
+        "productname": "真龙(晶钻刘三姐)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/d859163ef866ae9409a4f63d883893d3.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 0,
+        "scorewei": 0,
+        "scorebao": 0,
+        "scorejia": 0,
+        "brand": {
+            "brandid": "56",
+            "brandname": "真龙",
+            "desp": "真龙卷烟创牌于2001年，是广西中烟工业有限责任公司的主导品牌，目前主要产品有真龙盛世、真龙金韵、真龙神韵、真龙海韵、真龙鸿韵、真龙天韵、真龙祥云、真龙珍品、真龙天翔、真龙娇子等，产品概念为“高香气、低焦油、低危害”，凭借独特的口味和中华传统龙文化的包装，在激烈的市场竞争中迅速成长，成为全行业成长性最好的卷烟品牌之一。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "2",
+        "commentnum": "1",
+        "othername": ""
+    }, {
+        "productid": "3598",
+        "productname": "中南海(京韵俊杰)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/db8263a5dbd3c08c09655bfbefcbf3d4.jpg",
+        "packprice": 28,
+        "barprice": 280,
+        "comscore": 6.7,
+        "scorewei": 6,
+        "scorebao": 6,
+        "scorejia": 8,
+        "brand": {
+            "brandid": "25",
+            "brandname": "中南海",
+            "desp": "中南海卷烟品牌现属上海烟草（集团）公司北京卷烟厂，1976年中南海对外试销，由此步入市场。1983年新混合型中南海卷烟诞生，1994年低焦油中南海成功研制，1999年后至今，中南海5mg、中南海8mg、中南海金8mg、中南海3mg纳米等等产品问世，形成了低危害中南海系列产品。中南海是我国36个名优卷烟品牌中唯一的低危害混合型卷烟品牌，以中南海（低焦油混合型）为代表的卷烟产品不仅行销全国，还远销日韩美台等多个国家和地区，备受青睐。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 3,
+        "type": {
+            "typeid": "2",
+            "typename": "混合型"
+        },
+        "pingnum": "9",
+        "commentnum": "3",
+        "othername": ""
+    }, {
+        "productid": "3420",
+        "productname": "中南海(Z冰）",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/96ecac35e777b1dd121e1fa890230339.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 7,
+        "scorewei": 7.2,
+        "scorebao": 7.2,
+        "scorejia": 6.7,
+        "brand": {
+            "brandid": "25",
+            "brandname": "中南海",
+            "desp": "中南海卷烟品牌现属上海烟草（集团）公司北京卷烟厂，1976年中南海对外试销，由此步入市场。1983年新混合型中南海卷烟诞生，1994年低焦油中南海成功研制，1999年后至今，中南海5mg、中南海8mg、中南海金8mg、中南海3mg纳米等等产品问世，形成了低危害中南海系列产品。中南海是我国36个名优卷烟品牌中唯一的低危害混合型卷烟品牌，以中南海（低焦油混合型）为代表的卷烟产品不仅行销全国，还远销日韩美台等多个国家和地区，备受青睐。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "2",
+            "typename": "混合型"
+        },
+        "pingnum": "10",
+        "commentnum": "4",
+        "othername": ""
+    }, {
+        "productid": "3289",
+        "productname": "玉溪(细支清香世家)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/fb579663f62dff2ab3ee7129e11bef47.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 7.8,
+        "scorewei": 8.2,
+        "scorebao": 8.3,
+        "scorejia": 6.8,
+        "brand": {
+            "brandid": "52",
+            "brandname": "玉溪",
+            "desp": "玉溪香烟的名字源于红塔集团所在地——云南省玉溪市，玉溪卷烟定位于高档产品，追求品质。玉溪卷烟不仅代表着红塔集团的实力，还代表着玉溪的高原“水”文化。玉溪虽定位高端却不失亲和力，玉溪的理念“上善若水”代表着谦逊、执著、变通、务实、与人为善。这也正是玉溪品牌追求的境界。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "43",
+        "commentnum": "20",
+        "othername": ""
+    }, {
+        "productid": "3424",
+        "productname": "玉溪(壹零捌)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/ade75df70a58afe0d6b34d269309f759.jpg",
+        "packprice": 30,
+        "barprice": 300,
+        "comscore": 8.7,
+        "scorewei": 9,
+        "scorebao": 9.1,
+        "scorejia": 8.2,
+        "brand": {
+            "brandid": "52",
+            "brandname": "玉溪",
+            "desp": "玉溪香烟的名字源于红塔集团所在地——云南省玉溪市，玉溪卷烟定位于高档产品，追求品质。玉溪卷烟不仅代表着红塔集团的实力，还代表着玉溪的高原“水”文化。玉溪虽定位高端却不失亲和力，玉溪的理念“上善若水”代表着谦逊、执著、变通、务实、与人为善。这也正是玉溪品牌追求的境界。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 8,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "257",
+        "commentnum": "63",
+        "othername": ""
+    }, {
+        "productid": "3116",
+        "productname": "云烟(苁蓉和悦)",
+        "coverpic": "https://pic.yanyue.cn/common/yan/productimgs/bc3787cd05b6e7dbc4300c228595f19b.jpg",
+        "packprice": 26,
+        "barprice": 260,
+        "comscore": 7.4,
+        "scorewei": 7.3,
+        "scorebao": 8.4,
+        "scorejia": 6.5,
+        "brand": {
+            "brandid": "19",
+            "brandname": "云烟",
+            "desp": "云烟创牌于1958年，是中国烟草著名品牌。云烟以“清、甜、香”为特征口味，发展出三大产品系列：以云烟软礼印象、云烟印象为主的高端系列，以云烟软硬珍品为主的珍品系列，以云烟如意、云烟吉祥、云烟紫和红云烟为主的精品系列，满足消费者的多元化需求。云烟有着深厚的历史积淀和文化传承，云烟商标代表“吉祥如意”，云烟二字拓自中国古代大书法家王羲之的真迹——这既是中国传统文化的审美体现，更是云烟品牌核心价值的准确表达。",
+            "parent": {
+                "brandid": "1",
+                "brandname": "大陆"
+            }
+        },
+        "tar": 6,
+        "type": {
+            "typeid": "1",
+            "typename": "烤烟型"
+        },
+        "pingnum": "163",
+        "commentnum": "34",
+        "othername": ""
+    }]
+}
