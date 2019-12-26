@@ -1,0 +1,6 @@
+# codding= utf-8
+
+if __name__ == '__main__':
+    _t_ = "abc"" \
+    ""123"
+    print(_t_)

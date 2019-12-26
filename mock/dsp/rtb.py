@@ -26,10 +26,17 @@ imps_mock = [{
         "style": 1010013,
         "title": "测试RTB bidding v1"
     },
-    "nurl": "https://wwww.source.com/vfr/notice",
+    "nurl": "https://nex.163.com/q",
     "pvm": [
-        "https://g.cn.miaozhen.com/x/k=2008872&p=6vJR8&dx=0&ni=__IESID__&mo=__OS__&ns=__IP__&m0=__OPENUDID__&m0a"
-        "=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__ "
+        "https://i.gridsumdissector.com/v/?gscmd=impress&gid=gad_393_89zduu7t&os=__OS__&if=${"
+        "IDFA}&oid=__OPENUDID__&aid=__ANDROIDID__&im=${"
+        "IMEI}&oa=__OAID__&m=__MAC__&ip=__IP__&ts=__TS__&did=__DUID__&aaid=__AAID__&uid=__UDID__&odin=__ODIN__&ua"
+        "=__UA__&lbs=__LBS__&autorefresh=__AUTOREFRESH__&id=${AUCTION_ID}&bidid=${AUCTION_BID_ID}$impid=${"
+        "AUCTION_IMP_ID}&price=${AUCTION_PRICE}&currency=${"
+        "AUCTION_CURRENCY}&autorefresh=__AUTOREFRESH__&u=https://stats.dmp.ghac.cn/imp.gif?e"
+        "=xzv_FaJamw4ixj70jcmA2x4MI9tj9Okb5IZ4YcQcLpUM3LwS.CHzyL&os=__OS__&imei=__IMEI__&mac=__MAC__&mac1"
+        "=__MAC1__&idfa=__IDFA__&aaid=__AAID__&openudid=__OPENUDID__&androidid=__ANDROIDID__&duid=__DUID__&ip"
+        "=__IP__&ua=__UA__&ts=__TS__"
     ],
     "clickm": [
         "https://g.cn.miaozhen.com/x/k=2008872&p=6vJR8&dx=0&ni=__IESID__&mo=__OS__&ns=__IP__&m0=__OPENUDID__&m0a"
@@ -102,7 +109,7 @@ def dsp1():
     }], "id": "", "bidid": "", 'id': request.json['id']}
     # bidid is random string
     random_str = ''.join(
-        [random.choice(string.ascii_letters + string.digits) for n in xrange(32)])
+        [random.choice(string.ascii_letters + string.digits) for n in range(32)])
     resp['bidid'] = random_str
     req_imps = request.json['imp']
     if len(req_imps) > 0:
